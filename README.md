@@ -1,6 +1,8 @@
 I made a program, which will train your pavlovian response to heavy melee in deadlock. 
 Watching YouTube? Never let your guard down. You can get heavy meleed any moment.
 It works in the background, and between 30 seconds and 15 minutes, a heavy melee sound will play. You have to press F to parry. If you do, good job! If you don't... 
+There is a 1 in 4 chance for a Viscous Puddle Punch to play instead of heavy melee.
+
 You'll become a parry god in no time! The rewards for parrying are something...
 
 You can change the parry key and the interval of how often the sound plays in the tray.
